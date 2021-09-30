@@ -1,1 +1,21 @@
 // Add your custom CSS here.
+.top-bar__countdown {
+    background-color: #81C4CE !important;
+}
+// full banner
+@media(min-width: 768px) {
+    .banner-slider {
+        max-width: 100%;
+        --banner-aspect-ratio: 1!important;
+        height: auto;
+    }
+  }
+  .top-bar__nav {
+      display: none !important;
+  }
+  .header {
+      background-color: #fff !important;
+  }
+  .products-carousel__title {
+    background: url(/img/uploads/fundo-title.png) no-repeat bottom;
+}
