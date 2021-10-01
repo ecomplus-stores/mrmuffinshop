@@ -48,3 +48,66 @@
         }
     }
 }
+.topo {
+    display: flex;
+    background-color: #81c4ce !important;
+}
+#entrar {
+    position: absolute;
+    top: 10px;
+    right: 0;
+    a {
+        color: #fff
+    }
+}
+
+@media (min-width: 992px) {
+    .header__search {
+        width: 30%;
+        float: right;
+    }
+}
+#search-form {
+    border: .5px solid #81c4ce;
+}
+#cart-button i {
+    color: #81c4ce
+}
+#cart-count {
+    background-color: #81c4ce;
+}
+@media(min-width: 1299px) {
+    .header__row .col.col-lg-auto.pl-1.pl-md-2.pl-lg-3 #logo {
+    position: absolute;
+      left: 500px;
+      top: -30px
+  }
+  }
+  @media(min-width: 992px)and (max-width: 1050px)  {
+    .header__row .col.col-lg-auto.pl-1.pl-md-2.pl-lg-3 #logo {
+    position: absolute;
+      left: 370px;
+      top: -30px;
+  }
+  }
+  @media(min-width: 1050px)and (max-width: 1150px)  {
+    .header__row .col.col-lg-auto.pl-1.pl-md-2.pl-lg-3 #logo {
+    position: absolute;
+      left: 420px;
+      top: -30px
+  }
+  }
+  @media(min-width: 1151px)and (max-width: 1250px)  {
+    .header__row .col.col-lg-auto.pl-1.pl-md-2.pl-lg-3 #logo {
+    position: absolute;
+      left: 425px;
+      top: -30px
+  }
+  }
+  @media(min-width: 1251px)and (max-width: 1300px)  {
+    .header__row .col.col-lg-auto.pl-1.pl-md-2.pl-lg-3 #logo {
+    position: absolute;
+      left: 490px;
+      top: -30px
+  }
+  }
