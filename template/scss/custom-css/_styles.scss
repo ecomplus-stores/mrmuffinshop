@@ -1,21 +1,50 @@
 // Add your custom CSS here.
 .top-bar__countdown {
-    background-color: #81C4CE !important;
+  background-color: #81c4ce !important;
 }
 // full banner
-@media(min-width: 768px) {
-    .banner-slider {
-        max-width: 100%;
-        --banner-aspect-ratio: 1!important;
-        height: auto;
+@media (min-width: 768px) {
+  .banner-slider {
+    max-width: 100%;
+  }
+}
+.top-bar__nav {
+  display: none !important;
+}
+.header {
+  background-color: #fff !important;
+}
+.products-carousel__title {
+  background: url(/img/uploads/fundo-title.png) no-repeat bottom;
+}
+
+.product-card,
+.products-carousel__item {
+  padding: 0;
+}
+.search-engine__retail .row .col-6.col-md-4.col-lg-3,
+.search-engine__results .container {
+  padding-left: 0.2rem;
+  padding-right: 0.2rem;
+}
+.products-carousel__title:before {
+    display: none;
+}
+.products-carousel__title a:hover {
+    text-decoration: none;
+}
+.product-item {
+    .prices, .product-card__name {
+        text-align: center;
     }
-  }
-  .top-bar__nav {
-      display: none !important;
-  }
-  .header {
-      background-color: #fff !important;
-  }
-  .products-carousel__title {
-    background: url(/img/uploads/fundo-title.png) no-repeat bottom;
+}
+.banners-grid .row {
+    div {
+        &:first-child {
+            padding-left: 0;
+        }
+        &:last-child {
+            padding-right: 0;
+        }
+    }
 }
