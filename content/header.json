@@ -9,7 +9,10 @@
     "socials": false
   },
   "categories_list": {
-    "featured": [],
+    "featured": [
+      "/black-november?BLACK NOVEMBER",
+      "/colecao-natureza?COLEÇÃO NATUREZA"
+    ],
     "random": 6,
     "full_width": true
   },
