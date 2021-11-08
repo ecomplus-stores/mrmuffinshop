@@ -31,7 +31,9 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "news",
+      "title": "LANÇAMENTOS DA SEMANA"
     },
     {
       "type": "banners-grid",
@@ -53,7 +55,9 @@
       "shuffle": true,
       "collection_id": null,
       "limit": 12,
-      "page": 1
+      "page": 1,
+      "sort": "sales",
+      "title": "OS MAIS VENDIDOS DA COLEÇÃO"
     }
   ]
 }
