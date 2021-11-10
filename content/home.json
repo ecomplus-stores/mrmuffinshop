@@ -39,14 +39,14 @@
       "type": "banners-grid",
       "banners": [
         {
-          "img": "/img/uploads/desatque2.jpg",
-          "alt": "Teste",
-          "link": ""
+          "img": "/img/uploads/whatsapp-image-2021-11-10-at-12.09.20.jpeg",
+          "alt": "",
+          "link": "https://wa.me/5562981532822"
         },
         {
-          "img": "/img/uploads/destaque1.jpg",
-          "alt": "Teste",
-          "link": ""
+          "img": "/img/uploads/whatsapp-image-2021-11-10-at-12.09.19.jpeg",
+          "alt": "",
+          "link": "https://www.instagram.com/mr.muffin_oficial/"
         }
       ]
     },
