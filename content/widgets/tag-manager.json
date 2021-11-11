@@ -4,7 +4,7 @@
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "<meta name=\"facebook-domain-verification\" content=\"zxkt816bwhxxpyy8da3nbzvlc744cd\" />",
+    "gtmContainerId": "<head><meta name=\"facebook-domain-verification\" content=\"zxkt816bwhxxpyy8da3nbzvlc744cd\" /><head>",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
