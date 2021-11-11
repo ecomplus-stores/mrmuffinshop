@@ -1,10 +1,10 @@
 {
   "pkg": "@ecomplus/widget-tag-manager",
-  "active": false,
+  "active": true,
   "desktopOnly": false,
   "enableCheckout": true,
   "options": {
-    "gtmContainerId": "",
+    "gtmContainerId": "<meta name=\"facebook-domain-verification\" content=\"zxkt816bwhxxpyy8da3nbzvlc744cd\" />",
     "dataLayerVar": "dataLayer"
   },
   "headAppend": "src/append/head",
