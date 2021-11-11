@@ -162,10 +162,7 @@
       margin: 0;
       margin-top: 2rem !important;
     }
-      .banners-grid .row div {
-    padding-right: 0 !important;
-    padding-left: 0 !important;
-  }
+
     .modal-header {
       display: none !important;
     }
@@ -212,4 +209,11 @@
     }
   }
   
+}
+
+@media(max-width: 767px) {
+  .banners-grid .row div {
+    padding-right: 0 !important;
+    padding-left: 0 !important;
+  }
 }
