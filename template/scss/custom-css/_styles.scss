@@ -180,6 +180,10 @@
   .modal-body {
     text-align: center;
   }
+  .banners-grid .row div {
+    padding-right: 0;
+    padding-left: 0;
+  }
 }
 @media(min-width: 990px) {
   .header__row {
