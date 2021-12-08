@@ -10,19 +10,22 @@
           "start": "2021-12-08T20:46:17.269Z",
           "end": "",
           "img": "/img/uploads/1920x600_2.jpg",
-          "mobile_img": "/img/uploads/800x940_2.jpg"
+          "mobile_img": "/img/uploads/800x940_2.jpg",
+          "link": "https://mrmuffinshop.com.br/colecao-natureza"
         },
         {
           "start": "2021-12-08T20:48:18.686Z",
           "end": "",
           "img": "/img/uploads/1920x600_3.jpg",
-          "mobile_img": "/img/uploads/800x940_3.jpg"
+          "mobile_img": "/img/uploads/800x940_3.jpg",
+          "link": "https://mrmuffinshop.com.br/dezembro-nota-10"
         },
         {
           "start": "2021-12-08T20:48:39.406Z",
           "end": "",
           "img": "/img/uploads/1920x600-1-.jpg",
-          "mobile_img": "/img/uploads/800x940-1-.jpg"
+          "mobile_img": "/img/uploads/800x940-1-.jpg",
+          "link": "https://mrmuffinshop.com.br/reveillon-2022"
         }
       ]
     },
