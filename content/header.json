@@ -10,10 +10,11 @@
   },
   "categories_list": {
     "featured": [
-      "/black-november?BLACK NOVEMBER",
-      "/colecao-natureza?COLEÇÃO NATUREZA"
+      "/reveillon-2022?LIQUIDAÇÃO",
+      "/colecao-natureza?COLEÇÃO NATUREZA",
+      "/dezembro-nota-10?DEZEMBRO NOTA 10"
     ],
-    "random": 6,
+    "random": 0,
     "full_width": true
   },
   "search_input": true
