@@ -10,6 +10,7 @@
   },
   "categories_list": {
     "featured": [
+      "/colecao-novo-ciclo?COLEÇÃO NOVO CICLO",
       "/colecao-requinte?COLEÇÃO REQUINTE",
       "/colecao-natureza?COLEÇÃO ELEGÂNCIA",
       "/liquida-2022?LIQUIDAÇÃO",
@@ -17,8 +18,7 @@
       "/camisas?CAMISAS",
       "/saias?SAIAS",
       "/blusas?BLUSAS",
-      "/dezembro-nota-10?CONJUNTOS",
-      "/colecao-novo-ciclo?COLEÇÃO NOVO CICLO"
+      "/dezembro-nota-10?CONJUNTOS"
     ],
     "random": 0,
     "full_width": true
