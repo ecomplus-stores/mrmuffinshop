@@ -10,7 +10,7 @@
   },
   "categories_list": {
     "featured": [
-      "/colecao-novo-ciclo?COLEÇÃO NOVO CICLO",
+      "/colecao-colors?COLEÇÃO RADIANTE",
       "/colecao-colors?COLEÇÃO COLORS",
       "/colecao-requinte?COLEÇÃO REQUINTE",
       "/colecao-natureza?COLEÇÃO ELEGÂNCIA",
@@ -25,5 +25,7 @@
     "full_width": true
   },
   "search_input": true,
-  "desktop_megamenu": true
+  "desktop_megamenu": true,
+  "alphabetical_order_submenu": true,
+  "full_width_submenu": true
 }
