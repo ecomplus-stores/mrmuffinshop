@@ -7,11 +7,15 @@
       "autoplay": 9000,
       "slides": [
         {
-          "start": "2021-12-08T20:46:17.269Z",
+          "start": "",
           "end": "",
-          "img": "/img/uploads/e4b6f093-a92d-43f6-abf6-3f2e40bcc79d.png",
+          "img": "/img/uploads/amor-meu-1-.jpg"
+        },
+        {
+          "start": "",
+          "end": "",
           "mobile_img": "",
-          "link": ""
+          "img": "/img/uploads/amor-meu-3-.jpg"
         }
       ],
       "full_width": true
