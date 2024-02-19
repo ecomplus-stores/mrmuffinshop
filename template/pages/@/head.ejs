@@ -13,7 +13,7 @@ if (maintenance.active) {
         sessionStorage.setItem('unlockKey', unlockKey)
       }
     <% } %>
-    if (!location.pathname.startsWith('/maintenance/') && sessionStorage.getItem('unlockKey') !== unlockKey) {
+    if (!location.pathname.startsWith('/maintenance/')) {
       location.href = '/maintenance/'
     }
   </script>
